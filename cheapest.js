@@ -21,4 +21,4 @@ function getCheapestPhone(phones){
 const cheap = getCheapestPhone(mobiles);
 console.log('Cheapest Phone is : ', cheap);
 
-
+// self work for max price
